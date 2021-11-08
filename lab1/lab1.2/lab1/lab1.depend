@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1636378324 source:x:\lab1\lab1.c
+	<OpenGL/gl3.h>
+	"MicroGlut.h"
+	"GL_utilities.h"
+	<Math.h>
+	<stdio.h>
+	"noise1234.h"
+	"simplexnoise1234.h"
+	"cellular.h"
+
+1634886444 source:x:\lab1\common\gl_utilities.c
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"GL_utilities.h"
+
+1601082610 x:\lab1\common\gl_utilities.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1634627326 source:x:\lab1\common\littleobjloader.c
+	"LittleOBJLoader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<VectorUtils3.h>
+
+1615492558 x:\lab1\common\littleobjloader.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	"VectorUtils3.h"
+
+1622442922 x:\lab1\common\vectorutils3.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<math.h>
+	<stdio.h>
+
+1613379362 source:x:\lab1\common\loadtga.c
+	"LoadTGA.h"
+
+1601082576 x:\lab1\common\loadtga.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622442930 source:x:\lab1\common\vectorutils3.c
+	"VectorUtils3.h"
+
+1504151932 source:x:\lab1\common\windows\glew.c
+	"glew.h"
+	"wglew.h"
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1504151932 x:\lab1\common\windows\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1504151932 x:\lab1\common\windows\wglew.h
+	<windows.h>
+
+1635493874 source:x:\lab1\common\windows\microglut.c
+	<windows.h>
+	"glew.h"
+	<gl/gl.h>
+	"MicroGlut.h"
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1621848528 x:\lab1\common\windows\microglut.h
+
